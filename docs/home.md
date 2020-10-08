@@ -26,6 +26,10 @@ Lollipop Studio 是一个小小的工作室
 - QQbot 代做
 - And so on
 
+::: warning 公告
+暂无
+:::
+
 ## 项目
 
 请参阅[项目列表](/guide/projectList)
@@ -41,5 +45,4 @@ Lollipop Studio 是一个小小的工作室
  具体请看群规
 :::
 
-茶馆: [Lollipop 社区交流群](https://qm.qq.com/cgi-bin/qm/qr?k=gzq4MdK0cEy9k1MkKTILkCL__B17kFBD&jump_from=webapi) 
--
+*茶馆: [Lollipop 社区交流群](https://qm.qq.com/cgi-bin/qm/qr?k=gzq4MdK0cEy9k1MkKTILkCL__B17kFBD&jump_from=webapi)*

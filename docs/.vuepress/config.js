@@ -1,5 +1,8 @@
 module.exports = {
     base: '/',
+    head: [
+        ['link', {rel: 'icon', href: '/favicon.ico'}]
+    ],
     title: 'Lollipop Studio 官方网站',
     description: 'The Official Website of Lollipop Studio',
     themeConfig: {
