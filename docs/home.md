@@ -36,9 +36,10 @@ Lollipop Studio 是一个小小的工作室
 
 ## 加入我们！
 
-> 注意！   
-> 群内可闲聊，但请文明和平地交谈   
-> 具体请看群规
+::: warning 注意！   
+ 群内可闲聊，但请文明和平地交谈   
+ 具体请看群规
+:::
 
 茶馆: [Lollipop 社区交流群](https://qm.qq.com/cgi-bin/qm/qr?k=gzq4MdK0cEy9k1MkKTILkCL__B17kFBD&jump_from=webapi) 
 -
