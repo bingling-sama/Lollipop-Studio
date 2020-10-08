@@ -35,7 +35,8 @@ module.exports = {
                     ['/guide/project/BeanFlameblog', '豆焰の博客'],
                     ['/guide/project/SCPAfterTheEND', 'SCP:After The END'],
                     ['/guide/project/LollipopServer', 'Lollipop Minecraft 服务器'],
-                    ['/guide/project/Gallery', 'Gallery 相册']
+                    ['/guide/project/Gallery', 'Gallery 相册'],
+                    ['/guide/project/UndergroundCityEngineering', '地下城市工程']
                 ]
             },
             {
