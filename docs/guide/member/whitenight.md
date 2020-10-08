@@ -7,9 +7,10 @@
 
 ## 个人信息 *Personal Information*
 
-<panel-view title="打招呼"></panel-view>
-<chat-message nickname="白夜" :avatar="$withBase('/whitenight.png')">这么可爱的头像一定是 男孩子 吧！！！</chat-message>
+<panel-view title="打招呼">
+<chat-message nickname="白夜" :avatar="$withBase('/whitenight.png')">头像这么可爱一定是男孩子吧！！！</chat-message>
 </panel-view>
+
 
 ~~我是一个很萌新很萌新的萌新~~\[手动滑稽\]（大雾   
 平时没事喜欢看看电影，耍耍电脑，研究一些~~稀奇古怪的~~技术（雾   
