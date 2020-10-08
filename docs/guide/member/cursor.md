@@ -14,26 +14,24 @@ HI THERE
 人设是美少女 ~~大雾~~    
 
 ### 爱好 *Hobbies* 
-- 编程！coding！
-- 好几个 Minecraft 服腐竹
-- ~~咕咕咕~~
-- 计算机硬件
 
+- 编程！coding！ 
+- 好几个 Minecraft 服腐竹 
+- ~~咕咕咕~~ 
+- 计算机硬件 
 > 是屑学生(苟活)
 
-
 ## 游戏 *Game*
-- [Phigros](https://www.taptap.com/app/165287)
+
 - [Minecraft](https://minecraft.net)
+- [Phigros](https://www.taptap.com/app/165287)
 - [Undertale](https://store.steampowered.com/app/391540/Undertale)
 - [Helltaker](https://store.steampowered.com/app/1289310/Helltaker)
-
 
 ## 使用语言 *Programming language used*
 
 - Python
 - JavaScript
-
 
 ## 亿些链接 *Some Links*
 
@@ -43,10 +41,8 @@ HI THERE
 - [CursorAPI](https://api.cursor-s.top/)
 - [爱发电](https://afdian.net/@cursor/)
 
-
 ### GitHub *GitHub*
 
 - [Cursor-S](https://github.com/Cursor-S/)
-
 
 [Take Me Home](/)

@@ -27,7 +27,8 @@ Lollipop Studio 是一个小小的工作室
 - And so on
 
 ::: warning 公告
-暂无
+如果在本站遇到 404 error   
+请刷新重试
 :::
 
 ## 项目
