@@ -6,7 +6,7 @@ module.exports = {
     title: 'Lollipop Studio 官方网站',
     description: 'The Official Website of Lollipop Studio',
     themeConfig: {
-        logo: '/logo.png',
+        logo: '/logo-big.png',
         nav: [
             {text: '主页', link: '/'},
             {text: 'GitHub', link: 'https://github.com/bingling-sama/Lollipop-Studio'},

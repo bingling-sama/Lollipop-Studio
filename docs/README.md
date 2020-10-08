@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /logo.png
+heroImage: /logo-small.png
 heroText: Lollipop Studio
 tagline: Lollipop Studio 官网
 actionText: 主页 →
