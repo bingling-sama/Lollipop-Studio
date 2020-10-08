@@ -4,9 +4,10 @@ Lollipop Studio 成员名单：
 ## [豆焰](/guide/member/beanflame) 工作室副室长 
 ## [白夜](/guide/member/whitenight) 工作室管理   
 ~~摸鱼~~
-## [CursoR_光标](/guide/member/cursor) 网站维护（bushi   
+## [CursoR_光标](/guide/member/cursor) 网站维护  
 ~~金主爸爸~~
-## [凉宫长栎](/guide/member/konara) 技术人员 ~~摸鱼~~
+## [凉宫长栎](/guide/member/konara) 技术人员    
+~~摸鱼~~
 ## [PeachSkin](/guide/member/peachskin) 技术人员(前端设计)
 
 

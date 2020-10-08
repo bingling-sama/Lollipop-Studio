@@ -1,6 +1,6 @@
 # 豆焰语录 *Quotations*
 
-<panel-view title="BeanFlame对话">
+<panel-view title="BeanFlame与冰凌sama的聊天记录">
 
 <chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">我感觉电脑里我在和你聊天，电脑有生命</chat-message>
 
@@ -8,7 +8,7 @@
 
 <chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">文本世界在我们聊天....</chat-message>
 
-<chat-message nickname="冰凌" :avatar="$withBase('/bingling.png')">你是光标是绿的</chat-message>
+<chat-message nickname="冰凌sama" :avatar="$withBase('/bingling.png')">你是光标是绿的</chat-message>
 
 
 <chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">中华文化博大精深</chat-message>
