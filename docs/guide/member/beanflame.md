@@ -33,7 +33,9 @@ Here is 豆焰 [Bean Flame] !
 ## 使用语言 *Programming language used*
 - C/C++ 
 - Java 
-- JS & lua & py ~~JOJO三厨脚本~~
+- javascript ~~JOJO三厨脚本~~
+- lua ~~JOJO三厨脚本~~
+- python ~~JOJO三厨脚本~~
 
 ## 一些链接  *Some Links*
 
