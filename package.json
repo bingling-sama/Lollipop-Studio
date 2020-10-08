@@ -1,0 +1,16 @@
+{
+  "name": "lollipopso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/beanflame/lollipopso",
+  "author": "bingling-sama <65523047+bingling-sama@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "vuepress": "^1.6.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
