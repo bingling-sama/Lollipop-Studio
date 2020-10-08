@@ -46,3 +46,7 @@ Lollipop Studio 是一个小小的工作室
 :::
 
 *茶馆: [Lollipop 社区交流群](https://qm.qq.com/cgi-bin/qm/qr?k=gzq4MdK0cEy9k1MkKTILkCL__B17kFBD&jump_from=webapi)*
+
+## 赞助！
+如果喜欢我们的项目或是想支持我们   
+请 -> [Lollipop Studio 爱发电](https://afdian.net/@binglingsama)
