@@ -38,7 +38,7 @@ HI THERE
 ### 个人项目 *Personal Blog*
 
 - <https://cursor-s.top/> Still Nothing Here...
-- [CursorAPI](https://api.cursor-s.top/)
+- [CursorAPI](https://apidoc.cursor-s.top/)
 - [爱发电](https://afdian.net/@cursor/)
 
 ### GitHub *GitHub*
