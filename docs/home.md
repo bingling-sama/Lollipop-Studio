@@ -51,5 +51,7 @@ Lollipop Studio 是一个小小的工作室
 ## 赞助！
 如果喜欢我们的项目或是想支持我们   
 请 -> [Lollipop Studio 爱发电](https://afdian.net/@binglingsama)
+
 ---
+
 [赞助名单](/guide/thanks)
