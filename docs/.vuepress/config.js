@@ -14,38 +14,38 @@ module.exports = {
         ],
         sidebar: [
             '/',
-            '/home',
+            '/home.html',
             {
                 title: '成员名单',
-                path: '/guide/memberList',
+                path: '/guide/memberList.html',
                 children: [
-                    ['/guide/member/binglingsama', '冰凌sama'],
-                    ['/guide/member/beanflame', '豆焰'],
-                    ['/guide/member/cursor', 'CursoR_光标'],
-                    ['/guide/member/konara', '凉宫长栎'],
-                    ['/guide/member/peachskin', '桃子皮'],
-                    ['/guide/member/whitenight', '白夜']
+                    ['/guide/member/binglingsama.html', '冰凌sama'],
+                    ['/guide/member/beanflame.html', '豆焰'],
+                    ['/guide/member/cursor.html', 'CursoR_光标'],
+                    ['/guide/member/konara.html', '凉宫长栎'],
+                    ['/guide/member/peachskin.html', '桃子皮'],
+                    ['/guide/member/whitenight.html', '白夜']
                 ],
             },  
             {
                 title: '项目列表',
-                path: '/guide/projectList',
+                path: '/guide/projectList.html',
                 children: [
-                    ['/guide/project/LollipopStudio', 'Lollipop Studio 官网'],
-                    ['/guide/project/BeanFlameblog', '豆焰の博客'],
-                    ['/guide/project/SCPAfterTheEND', 'SCP:After The END'],
-                    ['/guide/project/LollipopServer', 'Lollipop Minecraft 服务器'],
-                    ['/guide/project/Gallery', 'Gallery 相册'],
-                    ['/guide/project/UndergroundCityEngineering', '地下城市工程']
+                    ['/guide/project/LollipopStudio.html', 'Lollipop Studio 官网'],
+                    ['/guide/project/BeanFlameblog.html', '豆焰の博客'],
+                    ['/guide/project/SCPAfterTheEND.html', 'SCP:After The END'],
+                    ['/guide/project/LollipopServer.html', 'Lollipop Minecraft 服务器'],
+                    ['/guide/project/Gallery.html', 'Gallery 相册'],
+                    ['/guide/project/UndergroundCityEngineering.html', '地下城市工程']
                 ]
             },
             {
                 title: '成员语录',
-                path: '/guide/quotations',
+                path: '/guide/quotations.html',
                 children: [
-                    ['/guide/quotations/binglingQuotations', '冰凌语录'],
-                    ['/guide/quotations/beanflameQuotations', '豆焰语录'],
-                    ['/guide/quotations/konaraQuotations', '长栎语录']
+                    ['/guide/quotations/binglingQuotations.html', '冰凌语录'],
+                    ['/guide/quotations/beanflameQuotations.html', '豆焰语录'],
+                    ['/guide/quotations/konaraQuotations.html', '长栎语录']
                 ]
             },
         ],
