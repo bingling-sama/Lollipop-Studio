@@ -33,11 +33,11 @@ Lollipop Studio 是一个小小的工作室
 
 ## 项目
 
-请参阅[项目列表](/guide/projectList)
+请参阅[项目列表](/guide/projectList.html)
 
 ## 成员
 
-请参阅[成员名单](/guide/memberList)
+请参阅[成员名单](/guide/memberList.html)
 
 ## 加入我们！
 
@@ -54,4 +54,4 @@ Lollipop Studio 是一个小小的工作室
 
 ---
 
-[赞助名单](/guide/thanks)
+[赞助名单](/guide/thanks.html)
