@@ -42,7 +42,7 @@
 
 ### 个人博客  *Personal Blog*
 
-- [白夜 - Wzhrdx](https://www.silentstar.cn/)
+- [白夜 - Wzhrdx](https://blog.silentstar.cn/)
 
 ### GitHub  *GitHub*
 
