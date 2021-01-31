@@ -24,7 +24,8 @@ module.exports = {
                     ['/guide/member/cursor.html', 'CursoR_光标'],
                     ['/guide/member/konara.html', '凉宫长栎'],
                     ['/guide/member/peachskin.html', '桃子皮'],
-                    ['/guide/member/whitenight.html', '白夜']
+                    ['/guide/member/whitenight.html', '白夜'],
+                    ['/guide/member/faulkner.html', 'Faulkner']
                 ],
             },  
             {
