@@ -39,7 +39,7 @@
 
 - Github：https://github.com/FaulknerWu
 - 推特：https://twitter.com/WuFaulkner
-- Discord：Faulkner_Wu#8137~~（虽然这8是url）~~
+- Discord：Faulkner_Wu#8137 ~~(虽然这8是url)~~
 
 
 
