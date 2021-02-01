@@ -1,15 +1,32 @@
-# *Lollipop-Studio*
-这里是 Lollipop Studio 官网开源仓库
+# lollipop-studio
 
-## 贡献者 *Contributor*
-- [冰凌sama](https://lollipop-studio.vercel.app/guide/member/binglingsama.html)
+## Project setup
+```
+yarn install
+```
 
-## 计划 *Plan & TodoList*
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
 
-- [ ] 官网基本框架
-- [ ] 官网介绍
-- [ ] 成员列表 & 介绍
-- [ ] 项目列表
-- [ ] 项目介绍
-- [ ] 多语言支持
+### Compiles and minifies for production
+```
+yarn run build
+```
 
+### Run your tests
+```
+yarn run test
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+# 好了吗？
+
+写呢、
