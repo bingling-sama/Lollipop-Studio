@@ -13,8 +13,8 @@ export default {
     }
     addScript(`
       new Artitalk({
-          appId: ' ',
-          appKey: ' ',
+          appId: 'ozuW3DcnFIreLNj2jroXvUiQ-MdYXbMMI',
+          appKey: 'LHxhH2qNmLiyJyCitxuOgRpr',
           bgImg: 'https://cdn.jsdelivr.net/gh/drew233/cdn/20200409110727.webp',
           atEmoji: {
               huaji: 'https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/images/smilies/icon_huaji.gif',
