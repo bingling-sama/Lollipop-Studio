@@ -1,7 +1,8 @@
 module.exports = {
     base: '/',
     head: [
-        ['link', {rel: 'icon', href: '/favicon.ico'}]
+        ['link', {rel: 'icon', href: '/favicon.ico'}],
+        ['script', {  src: "https://cdn.jsdelivr.net/npm/artitalk" }],
     ],
     lang: 'zh-CN',
     title: 'Lollipop Studio 官方网站',
@@ -48,6 +49,10 @@ module.exports = {
                     ['/guide/quotations/beanflameQuotations.html', '豆焰语录'],
                     ['/guide/quotations/konaraQuotations.html', '长栎语录']
                 ]
+            },
+            {
+                title: '碎碎念',
+                path: '/guide/Artitalk.html',
             },
         ],
     },
