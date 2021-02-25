@@ -2,7 +2,7 @@
 
 ## 担任职务 *Team Position*
 
-- [火药飞速]() 工作室室长
+- [Huotai Studio]() 工作室室长
 - [Lollipop Studio](/) 工作室副室长
 
 ## 个人信息 *Personal Information*
@@ -12,7 +12,7 @@ Here is 豆焰 [Bean Flame] !
 热爱编程，热爱发明。     
 (写代码是热爱,写到世界充满爱!)     
 这是我的游戏开发工作室 ~~AD!~~     
-> [火药飞速工作室 ~~2KNO3+S+3C--点燃-→K2S+N2↑+3CO2↑工作室~~]()     
+> [火台工作室 ~~点燃烟火传递消消息信号↑↑↑工作室~~]()    
 
 ### 爱好 *Hobbies* 
 
@@ -29,7 +29,6 @@ Here is 豆焰 [Bean Flame] !
 
 - [Minecraft](https://minecraft.net)
 - [StarBound](https://store.steampowered.com/app/211820/Starbound)
-- [数字棋](/)
 - [六角柱数据世界](/)
 - [数据棋](/)
 
@@ -45,7 +44,7 @@ Here is 豆焰 [Bean Flame] !
 
 ### 个人博客  *Personal Blog*
 
-- [豆焰博客](https://blog.beanflame.ml)
+- [豆焰博客](https://blog.beanflame.cn)
 
 ### GitHub  *GitHub*
 
