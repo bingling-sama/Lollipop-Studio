@@ -19,6 +19,7 @@ Here is 豆焰 [Bean Flame] !
 - 编程 
 - 计算机硬件 
 - 电路 
+- 单片机
 - 发明 
 - 建模 
 - 像素图 
@@ -29,6 +30,7 @@ Here is 豆焰 [Bean Flame] !
 
 - [Minecraft](https://minecraft.net)
 - [StarBound](https://store.steampowered.com/app/211820/Starbound)
+- [Terraria](https://store.steampowered.com/app/105600/Terraria/)
 - [六角柱数据世界](/)
 - [数据棋](/)
 
