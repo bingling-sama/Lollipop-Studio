@@ -15,7 +15,7 @@
 
 <chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">中国四大发明</chat-message>
 
-<chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">火药飞速工作室（2KNO3+S+3C--点燃-→K2S+N2↑+3CO2↑工作室）</chat-message>
+<chat-message nickname="豆焰大爷" :avatar="$withBase('/beanflame.png')">火台工作室（点燃烟火传递消消息信号↑↑↑工作室）</chat-message>
 
 
 </panel-view>
