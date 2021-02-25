@@ -2,8 +2,8 @@
   "name": "lollipopso",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/beanflame/lollipopso",
-  "author": "bingling-sama <65523047+bingling-sama@users.noreply.github.com>",
+  "repository": "https://github.com/bingling-sama/Lollipop-Studio",
+  "author": "bingling-sama <bingling_sama@qq.com>",
   "license": "MIT",
   "private": true,
   "devDependencies": {
