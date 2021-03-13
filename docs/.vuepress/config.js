@@ -40,7 +40,8 @@ module.exports = {
                     ['/guide/project/Gallery.html', 'Gallery 相册'],
                     ['/guide/project/UndergroundCityEngineering.html', '地下城市工程'],
                     ['/guide/project/LollipopMirror.html', 'Lollipop Mirror 镜像站'],
-                    ['/guide/project/ForgeLollipopGradle.html', 'Forge Lollipop Gradle 1.7.10 插件']
+                    ['/guide/project/ForgeLollipopGradle.html', 'Forge Lollipop Gradle 1.7.10 插件'],
+                    ['/guide/project/VirtualCore.html', 'VirtualCore']
                 ]
             },
             {
