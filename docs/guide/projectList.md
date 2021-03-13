@@ -10,4 +10,5 @@
 - [地下城市工程](https://gitee.com/beanflame/UndergroundCityEngineering)
 - [Lollipop Mirror 镜像站](https://LollipopMirror.lollipopstudio.cn/)
 - [Forge Lollipop Gradle 1.7.10 插件](https://github.com/Lollipop-Studio/ForgeLollipopGradle)
+- [VirtualCore](https://github.com/Lollipop-Studio/VirtualCore)
 - [todo]()
