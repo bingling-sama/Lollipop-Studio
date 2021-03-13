@@ -38,7 +38,9 @@ module.exports = {
                     ['/guide/project/SCPAfterTheEND.html', 'SCP:After The END'],
                     ['/guide/project/LollipopServer.html', 'Lollipop Minecraft 服务器'],
                     ['/guide/project/Gallery.html', 'Gallery 相册'],
-                    ['/guide/project/UndergroundCityEngineering.html', '地下城市工程']
+                    ['/guide/project/UndergroundCityEngineering.html', '地下城市工程'],
+                    ['/guide/project/LollipopMirror.html', 'Lollipop Mirror 镜像站'],
+                    ['/guide/project/ForgeLollipopGradle.html', 'Forge Lollipop Gradle 1.7.10 插件']
                 ]
             },
             {
