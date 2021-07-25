@@ -1,0 +1,23 @@
+{
+  "name": "lollipop-studio",
+  "version": "0.0.0",
+  "author": {
+    "name": "bingling_sama",
+    "url": "https://www.booling.cn/",
+    "email": "bingling_sama@qq.com"
+  },
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.0.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.2.5",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.4.3",
+    "vue-router": "^4.0.10"
+  }
+}
