@@ -18,7 +18,7 @@ header {
   font-family: Consolas, monospace;
   overflow: hidden;
   /*noinspection CssInvalidFunction*/
-  animation: 4s typing steps(14, jump-none) infinite;
+  animation: 5s typing steps(14, jump-none) infinite;
 }
 
 .after {
@@ -37,6 +37,9 @@ header {
     width: 1ch;
   }
   to {
+    width: 8ch;
+  }
+  to {
     width: 14ch;
   }
 }
@@ -50,13 +53,3 @@ header {
   }
 }
 
-
-/*.name span {*/
-/*  --delay: 10s;*/
-
-/*  display: inline-block;*/
-/*  overflow: hidden;*/
-/*  width: 0ch;*/
-/*  animation: 0.1s text-in ease-in-out forwards;*/
-/*  animation-delay: var(--delay);*/
-/*}*/

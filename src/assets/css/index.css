@@ -6,20 +6,16 @@
   position: sticky;
   top: 0;
   background: #fff;
-  width: 100%;
-  /*height: 50px;*/
   transition: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
   box-shadow: 0 1px 1px rgb(100 100 10%);
-  box-sizing: border-box;
   font-size: 18px;
   font-weight: 400;
+  z-index: 1000;
 }
 
 .text {
-  display: block;
   padding: 0;
-  width: 100px;
   line-height: 50px;
   font-size: 18px;
   text-align: center;
@@ -27,19 +23,12 @@
 }
 
 .nav {
-  height: border-box;
   padding: 0;
   margin: 0;
-}
-
-.nav li {
   transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-  list-style-type: none;
-  float: left;
 }
 
 a {
-  display: block;
   text-align: center;
   text-decoration: none;
   color: #2c3e50;
@@ -47,7 +36,6 @@ a {
 
 .logo {
   position: relative;
-  display: block;
   height: 2.2rem;
   min-width: 2.2rem;
   margin: .5rem;
@@ -60,8 +48,6 @@ a {
 }
 
 .banner span {
-  position: relative;
-  display: block;
   text-align: start;
   height: 2.2rem;
   line-height: 50px;

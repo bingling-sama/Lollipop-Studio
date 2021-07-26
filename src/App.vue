@@ -1,31 +1,30 @@
 <template>
   <div class="main">
     <header class="header">
-      <ul class="nav">
-        <li>
-          <a href="" class="banner">
-            <img src="./assets/logo.png" alt="Lollipop Studio" class="logo">
-            <span style="font-size: 1.3rem; font-weight: 500">Lollipop Studio</span>
-          </a>
-        </li>
-        <li style="width: 30%;height: 50px;"></li>
+      <el-row class="nav" :gutter="10">
+       <el-col :span="4">
+         <a href="" class="banner">
+           <img src="./assets/logo.png" alt="Lollipop Studio" class="logo">
+           <span style="font-size: 1.3rem; font-weight: 500">Lollipop Studio</span>
+         </a>
+       </el-col>
+        <el-col :span="16"></el-col>
         <router-link to="/" custom v-slot="{ href, isExactActive }" replace>
-          <li class="page" :class="[isExactActive && 'active']">
+          <el-col class="page" :span="2" :class="[isExactActive && 'active']">
             <a :href="href">
               <span class="text">Home</span>
             </a>
-          </li>
+          </el-col>
         </router-link>
-
         <router-link to="/projects" custom v-slot="{ href, isExactActive }" replace>
-          <li class="page" :class="[isExactActive && 'active']">
+          <el-col class="page" :span="2" :class="[isExactActive && 'active']">
             <a :href="href">
               <span class="text">Projects</span>
             </a>
-          </li>
+          </el-col>
         </router-link>
+      </el-row>
 
-      </ul>
     </header>
     <router-view class="content"></router-view>
     <footer class="footer">
