@@ -11,7 +11,7 @@
         <li style="width: 60%;height: 50px;"></li>
         <router-link to="/" custom v-slot="{ href, isExactActive }">
           <li class="page" :class="[isExactActive && 'active']">
-            <a :href="href">
+            <a :href="href + '.html'">
               <span class="text">Home</span>
             </a>
           </li>
@@ -19,7 +19,7 @@
 
         <router-link to="/projects" custom v-slot="{ href, isExactActive }">
           <li class="page" :class="[isExactActive && 'active']">
-            <a :href="href">
+            <a :href="href + '.html'">
               <span class="text">Projects</span>
             </a>
           </li>
