@@ -1,0 +1,62 @@
+.home {
+  box-sizing: border-box;
+}
+
+header {
+  position: relative;
+  display: block;
+  background-color: #999;
+  background-blend-mode: multiply;
+  background-size: cover;
+  padding: 13rem 0;
+}
+
+.name {
+  display: inline-block;
+  font-size: 4rem;
+  color: #ffffff;
+  font-family: Consolas, monospace;
+  overflow: hidden;
+  /*noinspection CssInvalidFunction*/
+  animation: 4s typing steps(14, jump-none) infinite;
+}
+
+.after {
+  content: '';
+  display: inline-block;
+  font-size: 4rem;
+  width: 14px;
+  height: 4rem;
+  background-color: #ffffff;
+  border-radius: 2px;
+  animation: 1.1s cursor steps(2) infinite;
+}
+
+@keyframes typing {
+  from {
+    width: 1ch;
+  }
+  to {
+    width: 14ch;
+  }
+}
+
+@keyframes cursor {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+
+/*.name span {*/
+/*  --delay: 10s;*/
+
+/*  display: inline-block;*/
+/*  overflow: hidden;*/
+/*  width: 0ch;*/
+/*  animation: 0.1s text-in ease-in-out forwards;*/
+/*  animation-delay: var(--delay);*/
+/*}*/

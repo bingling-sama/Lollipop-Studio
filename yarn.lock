@@ -92,7 +92,7 @@
   dependencies:
     "@vue/shared" "3.1.5"
 
-"@vue/runtime-core@3.1.5":
+"@vue/runtime-core@3.1.5", "@vue/runtime-core@^3.1.5":
   version "3.1.5"
   resolved "https://repo.huaweicloud.com/repository/npm/@vue/runtime-core/-/runtime-core-3.1.5.tgz#a545b7f146092929cb5e833e85439150f17ac87b"
   integrity sha512-YQbG5cBktN1RowQDKA22itmvQ+b40f0WgQ6CXK4VYoYICAiAfu6Cc14777ve8zp1rJRGtk5oIeS149TOculrTg==

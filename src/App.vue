@@ -8,7 +8,7 @@
             <span style="font-size: 1.3rem; font-weight: 500">Lollipop Studio</span>
           </a>
         </li>
-        <li style="width: 60%;height: 50px;"></li>
+        <li style="width: 30%;height: 50px;"></li>
         <router-link to="/" custom v-slot="{ href, isExactActive }" replace>
           <li class="page" :class="[isExactActive && 'active']">
             <a :href="href">
