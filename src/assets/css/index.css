@@ -1,61 +1,88 @@
+.main {
+  min-height: 100vh;
+}
+
 .header {
-  position: fixed;
+  position: sticky;
+  top: 0;
   background: #fff;
   width: 100%;
-  height: 50px;
+  /*height: 50px;*/
   transition: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
   overflow: hidden;
   box-shadow: 0 1px 1px rgb(100 100 10%);
-  font-size: 14px;
+  box-sizing: border-box;
+  font-size: 18px;
   font-weight: 400;
 }
 
-.header ul {
-  position: absolute;
-  margin: 0;
-  padding-left: 0;
-  left: 0;
-  width: 100%;
-}
-
-.header ul li {
-  position: relative;
-  border: 0;
-  width: 100%;
-  height: 50px;
-  list-style: none;
-  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
-
-}
-
-.header li.active,
-.header li:hover {
-  box-shadow: inset 0 5px 0 0 #009688;
-}
-
-.header a,
-.header .banner,
-.header ul li a {
-  text-decoration: none;
-  color: #2c3e50;
-}
-
-.header ul li a .text{
-  position: relative;
+.text {
   display: block;
   padding: 0;
-  height: 50px;
+  width: 100px;
   line-height: 50px;
   font-size: 18px;
   text-align: center;
   white-space: nowrap;
 }
 
-.header .banner .icon,
-.header ul li a .icon {
-  display: block;
-  width: 50px;
-  height: 50px;
-  text-align: center;
+.nav {
+  height: border-box;
+  padding: 0;
+  margin: 0;
 }
 
+.nav li {
+  transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  list-style-type: none;
+  float: left;
+}
+
+a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+.logo {
+  position: relative;
+  display: block;
+  height: 2.2rem;
+  min-width: 2.2rem;
+  margin: .5rem;
+}
+
+.banner {
+  position: relative;
+  display: flex;
+  height: 50px;
+}
+
+.banner span {
+  position: relative;
+  display: block;
+  text-align: start;
+  height: 2.2rem;
+  line-height: 50px;
+  font-size: 18px;
+  white-space: nowrap;
+}
+
+.page {
+  opacity: 0.6;
+}
+
+.page.active {
+  box-shadow: inset 0 5px 0 0 #009688;
+  opacity: 1 !important;
+}
+
+.page:hover {
+  box-shadow: inset 0 5px 0 0 #009688;
+  opacity: 0.8;
+}
+
+.content {
+  min-height: 100vh;
+}

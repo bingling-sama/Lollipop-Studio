@@ -1,10 +1,10 @@
 <template>
-  <span>Lollipop Studio</span>
+  <span>Projects</span>
 </template>
 
 <script>
 export default {
-name: 'Home'
+  name: 'Projects'
 }
 </script>
 
