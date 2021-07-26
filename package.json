@@ -10,8 +10,8 @@
     "vuepress": "^1.7.1"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
   "dependencies": {
     "vue-avatar": "^2.3.1"
