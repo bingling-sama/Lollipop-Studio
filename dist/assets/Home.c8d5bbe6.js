@@ -1,0 +1,1 @@
+import{o as a,c as o,f as e}from"./vendor.8a7ebeb0.js";const d={name:"Home"},s=e("data-v-10a4726c")(((e,d,s,t,n,p)=>(a(),o("span",null,"Lollipop Studio"))));d.render=s,d.__scopeId="data-v-10a4726c";export default d;

@@ -1,0 +1,1 @@
+import{o as a,c as e,f as o}from"./vendor.8a7ebeb0.js";const s={name:"Projects"},d=o("data-v-65ecdf6a")(((o,s,d,r,t,c)=>(a(),e("span",null,"Projects"))));s.render=d,s.__scopeId="data-v-65ecdf6a";export default s;
