@@ -13,33 +13,34 @@ header {
 
 .name {
   display: inline-block;
-  font-size: 4rem;
+  font-size: 6rem;
   color: #ffffff;
   font-family: Consolas, monospace;
   overflow: hidden;
   /*noinspection CssInvalidFunction*/
-  animation: 5s typing steps(14, jump-none) infinite;
+  animation: 10s 5s typing steps(14, jump-none) infinite;
 }
 
 .after {
   content: '';
   display: inline-block;
-  font-size: 4rem;
+  font-size: 8rem;
   width: 14px;
-  height: 4rem;
+  height: 5rem;
   background-color: #ffffff;
   border-radius: 2px;
-  animation: 1.1s cursor steps(2) infinite;
+  /*noinspection CssInvalidFunction*/
+  animation: 1.1s 5s cursor steps(2, jump-none) infinite;
 }
 
 @keyframes typing {
-  from {
+  0% {
     width: 1ch;
   }
-  to {
-    width: 8ch;
+  50% {
+    width: 14ch
   }
-  to {
+  100% {
     width: 14ch;
   }
 }
