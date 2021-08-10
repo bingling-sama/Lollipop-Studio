@@ -1,7 +1,8 @@
 <template>
   <div class="home">
-    <header style="background-image: url(https://source.unsplash.com/random/800x600);">
-      <h1 class="name">LollipopStudio</h1><h1 class="after"></h1>
+    <header style="background-image: url(https://source.unsplash.com/random/800x600) !important;">
+      <p class="name">Lollipop Studio</p><br><br>
+      <p class="slogan">Development Sweetie!</p>
     </header>
   </div>
 </template>
