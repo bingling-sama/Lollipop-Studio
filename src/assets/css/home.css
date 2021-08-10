@@ -20,20 +20,16 @@ header {
   color: #ffffff;
   overflow: hidden;
   margin: 0;
-  animation: name-in 0.8s 0.5s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+  animation: name-in 1s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
 }
 
 @keyframes name-in {
-  0% {
-    letter-spacing: 1em;
-    transform: translateZ(400px);
+  from {
+    filter: blur(12px);
     opacity: 0;
   }
-  40% {
-    opacity: 0.6;
-  }
-  100% {
-    transform: translateZ(0);
+  to {
+    filter: blur(0px);
     opacity: 1;
   }
 }
@@ -49,16 +45,15 @@ header {
 }
 
 @keyframes slogan-in {
-  0% {
+  from {
     letter-spacing: -0.5em;
-    transform: translateZ(-700px);
+    transform: translateZ(-800px);
+    filter: blur(12px);
     opacity: 0;
   }
-  40% {
-    opacity: 0.6;
-  }
-  100% {
+  to {
     transform: translateZ(0);
+    filter: blur(0);
     opacity: 1;
   }
 }
