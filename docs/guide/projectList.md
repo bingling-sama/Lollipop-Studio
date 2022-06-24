@@ -11,4 +11,5 @@
 - [Lollipop Mirror 镜像站](https://LollipopMirror.lollipopstudio.cn/)
 - [Forge Lollipop Gradle 1.7.10 插件](https://github.com/Lollipop-Studio/ForgeLollipopGradle)
 - [VirtualCore](https://github.com/Lollipop-Studio/VirtualCore)
+- [OrangeCode 二次元的代码编辑器](https://github.com/Lollipop-Studio/OrangeCode)
 - [todo]()
