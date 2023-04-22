@@ -12,7 +12,7 @@ Lollipop Studio 是一个小小的工作室
 > 摸鱼超快乐！~~
 
 
-名下有 [Lollipop 社区] 、 [SCP:After The END]、[地下工程] 等项目   
+名下有 [Lollipop 社区] 、[Dream of Garden 服务器]、[Virbit 服务器]、 [SCP:After The END]、[地下工程] 等项目   
 
 当然也接项目的 ~~恰饭~~ 
 业务范围：
