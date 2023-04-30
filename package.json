@@ -7,13 +7,26 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "vuepress": "^1.7.1"
+    "vuepress": "^1.7.1",
+    
+    "open": "^8.2.1",
+    "patch-package": "^6.2.2",
+    "sass": "^1.32.0",
+    "sass-loader": "^8.0.2",
+    "simple-git": "^2.45.1",
+    "vuepress": "^1.5.4"
   },
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "vue-avatar": "^2.3.1"
+    "vue-avatar": "^2.3.1",
+    
+    "@docsearch/css": "^1.0.0-alpha.27",
+    "@docsearch/js": "^1.0.0-alpha.27",
+    "algoliasearch": "^4.4.0",
+    "intersection-observer": "^0.11.0",
+    "showdown": "^1.9.1"
   }
 }
